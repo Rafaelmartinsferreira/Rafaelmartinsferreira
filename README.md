@@ -7,8 +7,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmartinsferreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+#
 
-# <div align="center"><a href="https://git.io/streak-stats"><img height="180em" width="400em" src="https://streak-stats.demolab.com?user=rafaelmartinsferreira&theme=dark&locale=pt-br&date_format=j%20M%5B%20Y%5D"/></a>
+<div align="center"><a href="https://git.io/streak-stats"><img height="180em" width="400em" src="https://streak-stats.demolab.com?user=rafaelmartinsferreira&theme=dark&locale=pt-br&date_format=j%20M%5B%20Y%5D"/></a>
 </div>
 
 <div align="center">
